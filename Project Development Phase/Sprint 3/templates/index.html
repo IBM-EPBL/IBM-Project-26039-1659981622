@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Phishing Website Detection</title>
+    <style>
+    body {
+         background-color: LightBlue;
+    }
+    </style>
+  </head>
+  <body>
+    <center>
+      <h2><b>Phishing Website Detection</b></h2>
+
+      <form name="form" action="/y_predict" method="post" class="body">
+        <input
+          type="text"
+          id="url"
+          name="url"
+          placeholder="Enter a URL"
+          size="50"
+        />
+        <button type="submit">Submit</button>
+      </form>
+      <h3 style="text-align: center; color: red; font-size: 20px">{{ans}}</h3>
+      <h3 style="text-align: center; color: green; font-size: 20px">{{bns}}</h3>
+    </center>
+    <p>
+    Phishing is a form of fraud in which the attacker tries to learn sensitive
+information such as login credentials or account information by sending as a
+reputable entity or person in email or other communication channels.
+Phishing attacks can paralyze a business. Staff might be unable to continue
+their work. Data and assets might be stolen or damaged. Customers might
+be unable to access online services. The reason security defenders struggle
+to detect phishing domains is because of the unique part of the website
+domain.
+    </p>
+  </body>
+</html>
