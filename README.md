@@ -4,7 +4,7 @@ Web Phishing Detection
 
 
 
-![phishing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anetworks.com%2Fwhat-to-do-if-you-clicked-on-a-phishing-link%2F&psig=AOvVaw2OtyEi_7XqDTE6mmBUtw8S&ust=1668980743107000&source=images&cd=vfe&ved=2ahUKEwiZo_Tzm7v7AhUL8jgGHY9JBSUQjRx6BAgAEAo)
+![phishing](https://kratikal.com/blog/wp-content/uploads/2019/10/phishing2.jpg)
 
 # ABOUT PROJECT
 
